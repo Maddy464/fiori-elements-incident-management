@@ -1,4 +1,4 @@
-# CAP cap-side-by-side1
+# CAP mydata
 _out
 *.db
 *.sqlite
